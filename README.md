@@ -30,7 +30,7 @@ By following these examples, you'll:
 ### Option 1️⃣: Use the Academy Sandbox (No Setup Required!)
 The fastest way to try these examples is via the KX Academy Sandbox, where kdb+, PyKX, and Jupyter are preinstalled.
 
-1. Launch the sandbox environment at edu.kx.com, enter your email and verify with the code that you receive
+1. Launch the sandbox environment at [edu.kx.com](https://edu.kx.com/), enter your email and verify with the code that you receive
 2. From the sandbox, open a Terminal and clone this repository
     ```
     git clone https://github.com/your-repo/kdb-examples.git  
